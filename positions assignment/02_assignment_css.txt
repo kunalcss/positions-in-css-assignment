@@ -1,0 +1,13 @@
+differnce between absolute and relative positioning
+
+Absolute positioning-->
+An absolutely positioned element is an element whose computed position value is absolute or fixed . The top , right , bottom , and left properties specify offsets from the edges of the element's containing block
+
+Relative positioning -->
+What it really means is “relative to itself”. If you set position: relative; on an element but no other positioning attributes (top, left, bottom or right), it will have no effect on it’s positioning at all, it will be exactly as it would be if you left it as position
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+very main differnce between these two is -->
+in the relative positioning the elment will change its position without disturbing the neighbour elements 
+but on the other side in the absolute positioning all the elements stack on the first element.
